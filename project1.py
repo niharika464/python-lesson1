@@ -1,0 +1,7 @@
+print("'Niharika'")
+print(4)
+print(4+8)
+print("8+4")
+print("numbers....",40)
+print("\n Niharika\n")
+print(18)
